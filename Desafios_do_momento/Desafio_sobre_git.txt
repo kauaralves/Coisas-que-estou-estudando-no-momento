@@ -1,2 +1,3 @@
 Neste momento estou fazendo um desafio relacionado a GIT,
-Devo criar um arquivo e então mandar ele para o GitHub
+devo criar um repositório, e então compartilhar toda minha evolução 
+no mundo da tecnologia
